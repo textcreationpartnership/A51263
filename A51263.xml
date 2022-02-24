@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A disputation: whether Elijah, in Malachi 4. be any other prophet than what hath already been in the world? By Thomas Moor' author of the Clavis Aurea.</title>
+            <author>Moor, Thomas, fl. 1695-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51263</idno>
+            <idno type="STC">Wing M2608CA</idno>
+            <idno type="STC">ESTC R221899</idno>
+            <idno type="EEBO-CITATION">99833144</idno>
+            <idno type="PROQUEST">99833144</idno>
+            <idno type="VID">37619</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37619)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2191:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A disputation: whether Elijah, in Malachi 4. be any other prophet than what hath already been in the world? By Thomas Moor' author of the Clavis Aurea.</title>
+                  <author>Moor, Thomas, fl. 1695-1697.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy tightly bound with loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Prophecies --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+               <term>Prophets --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37619:1" rendition="simple:additions"/>
+            <p>A DISPUTATION: Whether <hi>Elijah,</hi> in <hi>Malachi</hi> 4. be any other Prophet than what hath already been in the World?</p>
+            <p>By <hi>THOMAS MOOR</hi> Author of the <hi>Clavis Aurea.</hi>
+            </p>
+            <q>
+               <hi>Bleſſed are you when Men ſhall hate you, and when they ſhall ſeparate you from their Company, and ſhall reproach you, and caſt out your Name as Evil, for the Son of Man's Sake. Rejoice ye in that Day, and leap for Joy: For behold, your Reward is great in Heaven: for in the like manner did their Fathers unto the Prophets.</hi> 
+               <bibl>Luke vi. 22, 23.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1695.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:37619:2" rendition="simple:additions"/>
+            <pb facs="tcp:37619:2"/>
+            <head>THE PREFACE.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>IN my <hi>Clavis Aurea,</hi> or <hi>Golden Key,</hi> I thought I had done the World no ſmall piece of Service, by uniting the Scrip<g ref="char:EOLhyphen"/>tures in Senſe one with another, according to the proper Signification of Words (not turn<g ref="char:EOLhyphen"/>ing <hi>SHALL</hi> into the Word <hi>WILL,</hi> and the like; the firſt denying <hi>Free-Will,</hi> which the laſt owns: If I ſay Chriſt was kill'd, according as God's Hand and Counſel determined before to be done, as in <hi>Acts 4. 28<g ref="char:punc">▪</g>
+               </hi> then it's anſwered, that it was foreſeen, which is true; for what God in his Counſel deter<g ref="char:EOLhyphen"/>mined before to be done, muſt of neceſſity be foreſeen: But they would fain have here the Words, <hi>thy Hand and thy Counſel de<g ref="char:EOLhyphen"/>termined before to be done,</hi> to ſignify only foreſeeing, and that God had no Hand in it; which is againſt the expreſs Words of Scrip<g ref="char:EOLhyphen"/>ture. And if I ſay in the Words of Chriſt to <hi>Pilate, You have no Power over me, except it be given you from Heaven A<g ref="char:EOLhyphen"/>bove,</hi>
+               <pb facs="tcp:37619:3"/>
+John 19. 11. this may as well be ſai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſignify Foreſeeing; and ſo Pilate had n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Power given him from Above to Crucify him So that the Words <hi>WILL</hi> and <hi>FORE<g ref="char:EOLhyphen"/>SEEING</hi> bear all the Sway in their Ex<g ref="char:EOLhyphen"/>poſitions; there being then no greater diffe<g ref="char:EOLhyphen"/>rence between ſuch Words than between th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Words <hi>White</hi> and <hi>Black:</hi> So that by chan<g ref="char:EOLhyphen"/>ging the Words of a Text, the Senſe of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Text is changed.) But where I pleaſed on I offended many, and of thoſe many I obſer<g ref="char:EOLhyphen"/>ved not one of them could underſtand m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Method, (though ſo clearly laid down) o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> proving the Salvation of unbelieving Iſrael which, if underſtood, would compel all terribl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parabolical Places of Scripture to unite to it But now a little to open their <g ref="char:V">Ʋ</g>nderſtanding I ſend this ſmall Treatiſe into the World as one Reaſon why I writ that of the <hi>Clav<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Aurea,</hi> or <hi>Golden Key.</hi>
+            </p>
+            <closer>
+               <signed>T. M<g ref="char:punc">▪</g>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:37619:3"/>
+            <head>
+               <hi>A QUESTION:</hi> WHether <hi>Elijah,</hi> or <hi>Elias,</hi> in the laſt Chapter of <hi>Malachi,</hi> be any other Prophet than what hath already been in the World?</head>
+            <head type="sub">The Author's Opinion to his own Queſtion.</head>
+            <p>IN the Old Teſtament the Word <hi>Elijah</hi> is the ſame as the Word <hi>Elias</hi> in the New Teſta<g ref="char:EOLhyphen"/>ment, as appeareth in <hi>Luke</hi> 4. 25. compar'd with 1 <hi>Kings</hi> 17. where our Saviour calls that <hi>Elijah</hi> that was ſent to the Widow of <hi>Serephath, Elias.</hi>
+            </p>
+            <p>Mal. 4. 5, 6. <hi>Behold, I will ſend you</hi> Elijah <hi>the Prophet, before the coming of the great and dreadful Day of the Lord<g ref="char:punc">▪</g> And he ſhall turn the Heart of the Fathers to the Children, and the Heart of the Children to the Fathers, leſt I come and ſmite the Earth with a Curſe.</hi> Hence this mutual Love which <hi>Elijah</hi> ſhall cauſe between God and Man, and Man and Man<g ref="char:punc">▪</g> is to continue to the end of the World; which Preparation therefore is ſtill to be brought to paſs: For in 2 <hi>Tim.</hi> 3. it's thus writ, <hi>In the laſt Days</hi> (the Text doth not ſay in the laſt Days of all) <hi>perillous Times ſhall come, and Men ſhall be covetous, diſobedient to Parents, lovers of Pleaſures more than lovers of God.</hi> This is but a ſad Preparation againſt the ſecond Com<g ref="char:EOLhyphen"/>ing of Chriſt to turn him from bringing a Curſe on the Earth, but it promotes <hi>Elijah</hi>'s Office or Buſineſs; otherwiſe what occaſion would there be of his turning Mens Hearts, if they were al<g ref="char:EOLhyphen"/>ready turn'd?</p>
+            <q>
+               <pb n="6" facs="tcp:37619:4"/>
+               <p>An <hi>ANSWER</hi> drawn from the <hi>Athenian Society,</hi> in their <hi>Mercury</hi> of <hi>Numb. 10. Vol. 2.</hi> Verbatim.</p>
+               <p>THE Gentleman who propoſes the Que<g ref="char:EOLhyphen"/>ſtion, holds it in the Affirmative; his Judgment is, that <hi>Elias</hi> here propheſied of is yet to come; the Reaſons he brings to favour his Opinion is taken from the Text in the 4th of <hi>Malachi 5, 6. I ſend</hi> Elijah <hi>the Prophet before the coming of the great and terrible Day of the LORD. And he ſhall turn the Hearts of the Fathers to the Children,</hi> &amp;c. <hi>leſt I come and ſmite the Earth with a Curſe.</hi> Hence he argues, If this mutual Love <hi>Elijah</hi> is to work is to continue to the end of the World, then he is not yet come; and accordingly interprets the great and terrible day of the Lord here ſpoken of, by the day of Judgment and final Conſumation of all Things. And indeed it was the Opinion alſo of <hi>Tertullian,</hi> and per<g ref="char:EOLhyphen"/>haps of moſt of the antient Chriſtians, as wel<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as 'tis of the Jews and Papiſts at preſent, an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſome of che Learned Proteſtants alſo, tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Elias</hi> ſhall come before the general day of Judgment.</p>
+               <p>On the whole we remark, that ſuppoſing it true, that <hi>Elias</hi> were then to come, as Mr. <hi>Mede</hi> and others are of Opinion, it doth not here follow that he is not come already, for he may come twice; in which Suppoſition we can diſcover no manner of Incongruity.</p>
+               <p>
+                  <pb n="7" facs="tcp:37619:4"/>That he is come already once, and that <hi>John</hi> the Baptiſt was he, and the ſame prophe<g ref="char:EOLhyphen"/>ſied of in <hi>Malachi,</hi> we are more than once aſſu<g ref="char:EOLhyphen"/>red by the Infallible Oracles of Truth it ſelf.</p>
+               <p>He was the Meſſenger that was to prepare the way of the Lord, <hi>Mat.</hi> 3. 3. He was to go before the Lord in the Spirit and Power of <hi>Elias</hi> (with his zeal and fervour of Life) to turn the Heart of the Fathers to the Children, and to make ready a People prepared, <hi>Luke</hi> 17.</p>
+               <p>Our Saviour ſpoke in ſuch a manner that the Diſciples underſtood he meant <hi>John,</hi> and well they might, for he tells them ſo poſitive<g ref="char:EOLhyphen"/>ly, <hi>Mat. 11, 12. From the days of</hi> John <hi>the Baptiſt,</hi> &amp;c. <hi>This is</hi> Elias <hi>which was for to come.</hi> Again, 17. 12. <hi>Elias is come already.</hi>
+               </p>
+               <p>For that Argument brought to prove that he is not yet come, becauſe the Love he was to produce was to continue to the end of the World, a little before which, it's thence con<g ref="char:EOLhyphen"/>cluded, he was to appear in it, is grounded on a falſe Suppoſition: Namely, that by the great and dreadful day of the Lord, muſt be meant the general day of Judgment; whereas that Phraſe is not ſeldom taken for the parti<g ref="char:EOLhyphen"/>cular Judgment of <hi>Jeruſalem,</hi> a Type indeed of the great day; thus <hi>Acts</hi> 2. and in ſeveral places (tho perhaps not ſo many as ſome great Men have thought.)</p>
+               <p>For the <hi>Earth,</hi> here mentioned, all who are any ways vers'd in the Old Teſtament, knows it ſignifies no more than Land, that particular Land of <hi>Judea,</hi> whenever 'tis found without any thing elſe affix'd thereto.</p>
+               <p>
+                  <pb n="8" facs="tcp:37619:5"/>Now the Inhabitants of this Land, the Baptiſt did in great Numbers reſtore, by preaching to 'em Repentance, and thereby prepare the way of the Lord; and had ſav'd the Country from utter Deſtruction, and that Curſe which afterwards fell on them, for re<g ref="char:EOLhyphen"/>fuſing and crucifying the <hi>Meſſiah,</hi> whom he preach'd unto 'em, had they generally be<g ref="char:EOLhyphen"/>liev'd his Doctrine.</p>
+            </q>
+            <p>An <hi>ANSWER</hi> to this <hi>ANSWER</hi> of the <hi>Athenian Society.</hi>
+            </p>
+            <p>CAN we think that the Scriptures ſhould ſay, that <hi>Elias</hi> ſhall come, and ſhall prepare Mens Hearts to meet Chriſt, leſt he ſhould come and ſmite the Earth with a Curſe at the great and dreadful Day; yet lay a neceſſity on that terrible and dreadful Day for a Curſe to be in<g ref="char:EOLhyphen"/>flicted on the Earth? For you write to this effect in the latter end of your Anſwer, That the In<g ref="char:EOLhyphen"/>habitants of the Land of <hi>Judea</hi> had ſav'd their Countrey from that Curſe that fell on them, if they had not Crucified the <hi>Meſſiah.</hi> But I an<g ref="char:EOLhyphen"/>ſwer, if the <hi>Meſſiah</hi> had not been Crucified, How had the Scriptures been fulfilled? Where had the Redemption of Man been? Therefore we muſt conclude from your own Argument, that if their lay a neceſſity of the Crucifixion of Chriſt, there lay a neceſſity for a Curſe to come on the Land of <hi>Judea,</hi> and City of <hi>Jeruſalem.</hi> And is
+<pb n="9" facs="tcp:37619:5"/>
+this a turning a Curſe from the Earth, for the fulfilling of the 4th of <hi>Malachi?</hi> But as to the preparation <hi>John</hi> made, he <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s'd Repentance by preaching Terror and Fire, <hi>Luke</hi> 3. 9, 17. which alſo in ſome meaſure, by Repentance, prepar'd the Hearts of the Children to their Fathers, but not <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> effectually as to have a Curſe turn'd from the Earth at the great Day, becauſe his prepara<g ref="char:EOLhyphen"/>tion was without Faith in Chriſt: For he never told the Jews that Chriſt was the Saviour of the World and that he was to be Crucified, and that it was neceſſary to believe in him, all which things were to be kept ſecret, that they might crucify him; for had they known it they would not have crucified the Lord of Glory.</p>
+            <p>But withal <hi>John</hi> baptized the Jews in Chriſt's Death, thereby to ſet aſide Circumciſion as a preparative to receive Chriſt after his Cruci<g ref="char:EOLhyphen"/>fixion, and to what end were they baptiz'd but in Chriſt's Death, tho unknown to them, this was no preparation ſuteable to the Text of <hi>Mal.</hi> 4. 5, 6. which is a preparation to meet Chriſt in Love, but this Preparation of <hi>John</hi>'s Baptiſm was to meet Chriſt in hatred crucifying him, a<g ref="char:EOLhyphen"/>greeable to the Text of <hi>Mal.</hi> 3. and not of <hi>Mal.</hi> 4. as 'tis writ in <hi>Mal. 3. Behold, I ſend my Meſ<g ref="char:EOLhyphen"/>ſenger, before thy Face, to prepare thy way before thee;</hi> and this Text by St. <hi>Mark</hi> is aſcrib'd to <hi>John, Mark</hi> 1. this Text alſo of <hi>Mal.</hi> 3. by Chriſt himſelf is aſcrib'd to <hi>John, Luke</hi> 7.</p>
+            <p>Since then Chriſt was inevitably to be crucified for the fulfilling of the Scriptures, and perfor<g ref="char:EOLhyphen"/>mance of God's Promiſe, who cannot lie, <hi>Titus 1. 2. 2 Tim.</hi> 1. 9. Chriſt was to be met in hatred
+<pb n="10" facs="tcp:37619:6"/>
+in the Fleſh, or crucified, whereby a Curſe was brought upon your Earth or Land of <hi>Judea,</hi> and City of <hi>Jeruſalem,</hi> on your terrible Day. It's requiſite then for the fulfilling that Scripture of <hi>Mal.</hi> 4. that a preparation be made to meet Chriſt in love at his ſecond appearance in Glory, for the turning a Curſe from the Earth. Which Word, <hi>Earth,</hi> then in <hi>Mal.</hi> 4. is not <hi>Judea,</hi> nor City of <hi>Jerualem,</hi> on which a Curſe was inflicted on your terrible Day, for the inevitable Cruci<g ref="char:EOLhyphen"/>fixion of Chriſt.</p>
+            <p>Now I will go contrary to this, and concur with you; we'll ſuppoſe the Jews had believ'd in Chriſt, before his Crucifixion, through <hi>John</hi>'s preaching (for <hi>John</hi> preach'd not after Chriſt was crucified, as being beheaded before) and ſo the Jews had not crucified the <hi>Meſſiah,</hi> What Diverſion of a Curſe would this be? For with<g ref="char:EOLhyphen"/>out the Crucifixion of Chriſt Sin had not been pardoned, which had been a greater Curſe to the Jews than the Deſtruction of their Counrey.</p>
+            <p>The <hi>Athenian Society</hi> ſay from <hi>Acts</hi> 2. that the great and dreadful day ſignifies the Deſtruction of <hi>Jeruſalem;</hi> but in that <hi>Chapter</hi> there is no ſuch thing, nor any where beſides as I know of: For the great and notable day in that <hi>Chapter, ver.</hi> 20 cannot be prov'd to ſignify the Deſtruction of <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> there not being a word concerning it.</p>
+            <p>Neither is the Deſtruction of <hi>Jeruſalem</hi> a Typ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the laſt Day, for at the laſt Day a Curſe is turn'd from the Earth, but at the Deſtruction of <hi>Jeruſalem</hi> a Curſe was inflicted. The Laſt day is call'd the dreadful day, becauſe the Heaven ſhall melt with fervent Heat; yet Man may b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſav'd for all that.</p>
+            <p>
+               <pb n="11" facs="tcp:37619:6"/>We having underſtood theſe things, let's take a view of this Text, of <hi>Mal. 4. 5, 6. Behold, I will ſend you</hi> Elijah <hi>the Prophet, before the coming of the great and dreadful day of the Lord. And he ſhall turn the Hearts of the Fathers to the Children, and the Hearts of the Children to their Fathers, leſt I come and ſmite the Earth with a Curſe.</hi>
+            </p>
+            <p>Throughout the Prophets there is no mention made of an <hi>Elias,</hi> except in <hi>Mal.</hi> 4. whereby the Jews could enquire after no other <hi>Elias:</hi> There<g ref="char:EOLhyphen"/>fore it muſt be this <hi>Elias,</hi> in <hi>Mal.</hi> 4. the Jews muſt enquire after.</p>
+            <p>When they came to <hi>John</hi> the Baptiſt, <hi>Joh.</hi> 21, they as'd him whither he was the <hi>Elias?</hi> and <hi>John</hi> ſaid <hi>No: Art thou that Prophet?</hi> as much as to ſay, if thou art not <hi>Elias</hi> by name, thy name being <hi>John,</hi> art not thou that <hi>Elias</hi> by the name of <hi>John?</hi> and he anſwered, <hi>I am not.</hi>
+            </p>
+            <p>Now <hi>John</hi> being full of the Holy Ghoſt from a Child, muſt needs know what <hi>Elias</hi> the Jews ask'd him about, eſpecially ſince any Perſon of a very mean Capacity could not well miſs of him: He could tell <hi>Herod It was not lawful for him to have his Brothers Wife; John</hi> likewiſe could tell the Jews, <hi>He was the Voice of one crying in the Wilderneſs,</hi> &amp;c. whereby it's evident he knew the Scriptures.</p>
+            <p>Neither could <hi>Elias</hi> in <hi>Mal.</hi> 4. be Chriſt, be<g ref="char:EOLhyphen"/>cauſe the Text ſaith, <hi>Before the great and dreadful Day, I will ſend you</hi> Elijah, &amp;<hi>c.</hi> therefore this <hi>Elijah,</hi> in <hi>Mal.</hi> 4. is to come before Chriſt, to make a Preparation againſt Chriſt's Coming.</p>
+            <p>Our Saviour in his anſwer to his Diſciples, in <hi>Mat.</hi> 17. 11, 12. ſaid Elias <hi>ſhall firſt come and re<g ref="char:EOLhyphen"/>ſtore
+<pb n="12" facs="tcp:37619:7"/>
+all things: But I ſay</hi> Elias, <hi>is</hi> (in the preſent Tenſe) <hi>come already,</hi> meaning <hi>John:</hi> But when our Saviour ſaid, <hi>Elias</hi> (in the future Tenſe, this being ſpoken after <hi>John</hi> was kill'd) <hi>ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll firſt come and reſtore all things,</hi> it's another <hi>Elias:</hi> Neither did <hi>John</hi> reſtore all things, neither did he preach any ſuch Reſtoration; and when ſuch <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reſtora<g ref="char:EOLhyphen"/>tion is preach'd, it ought to be well conſidered, and Men ought not to ſtop their Ears, and run upon him, as the Jews did on St. <hi>Stephen.</hi>
+            </p>
+            <p>It is Chriſt (according to the Goſpel) that is perſonally to be met at the great and dreadful Day, but not at the Deſtruction of <hi>Jeruſalem;</hi> and in that <hi>Elijah</hi> ſhall cauſe a preparation a<g ref="char:EOLhyphen"/>gainſt that great Day, that preparation being made, as the Text ſaith, for the turning a Curſe from the Earth, the turning a Curſe from the the Earth muſt follow as the effect of <hi>Elijah</hi>'s Preparation, as 'tis writ, <hi>Behold, I will ſend you</hi> Elijah <hi>the Prophet,</hi> &amp;c. <hi>and he ſhall prepare,</hi> &amp;c. <hi>leſt I ſmite the Earth with a Curſe.</hi>
+            </p>
+            <p>Now, by the way of Caution, let a Doctrine ſeem never ſo ſtrange, underſtand it well before you diſprove it, nay be able to diſpute the Au<g ref="char:EOLhyphen"/>thor before you condemn it; leſt like the Jews you blaſpheme the Oracles of Heaven, and ſay my Doctrine is Blaſphemy, when your own may be really ſo. The things of God knows no Man but the Spirit of God in him, they are Fooliſh<g ref="char:EOLhyphen"/>neſs to a Natural Man, and ſo ridicul'd by him. It's ſaid <hi>Elias ſhall firſt come and reſtore all things;</hi> then I hope a Curſe is turn'd from the Earth, ſutable to the buſineſs of <hi>Elias,</hi> in <hi>Mal.</hi> 4. But if there be a caſting of Men into everlaſting Fire,
+<pb n="13" facs="tcp:37619:7"/>
+How is a Curſe turn'd from the Earth, and all things reſtor'd?</p>
+            <p>But the Heavens doth contain Chriſt, until the Reſtitution of all things, <hi>Acts</hi> 3. 20. And <hi>He gave himſelf a ranſom for all, to be teſtified in due time.</hi> 1 Tim. 2. 6. <hi>Who will have all Men to be ſaved, and come to the knowledge of the Truth.</hi> 1 Tim. 2. 4. Altho, as I have prov'd, they have not Faith in this Life; the proof of which I refer you to my <hi>Clavis Aurea,</hi> or <hi>Golden Key,</hi> which ſome that can give me no account of it diſpa<g ref="char:EOLhyphen"/>rage; but the only way to know true Doctrine by, is when it is very ſurprizing, and ſo high that it cannot be received but by much difficulty, yet it cannot, by all the Art and Induſtry of Man, be overthrown.</p>
+            <p>
+               <hi>John</hi> the Baptiſt did no Miracle, tho teſtified by our Saviour to be a Prophet: And I obſerve in the difference between a Natural Man and a Spiritual, the firſt receives no Divine Viſion, the laſt receives ſuch Viſions and ever have done. Amongſt Natural Men which receive neither Di<g ref="char:EOLhyphen"/>vine Viſion, and ſo by Conſequence no Revela<g ref="char:EOLhyphen"/>tion, none of them are ſo knowing in the Scrip<g ref="char:EOLhyphen"/>tures but another may be found as able; but a Spiritual Man who receives both Viſion and Re<g ref="char:EOLhyphen"/>velation, as far exceeds all Men as the glorious Sun excells the darkeſt Night. As to Viſions, I ſhall thus far ſay for the diſcharge of my Con<g ref="char:EOLhyphen"/>ſcience, tho I make my ſelf ridiculous by it to ſome unthinking People.</p>
+            <p>After many Years Unſatisfaction, one Morn<g ref="char:EOLhyphen"/>ing about Three of the Clock, then flew in the Sky a Globe of tranſparent Fire, about the big<g ref="char:EOLhyphen"/>neſs
+<pb n="14" facs="tcp:37619:8"/>
+of the Moon at Full; and from it proceeded the form of a Sword, and at the Swords point exceeding great quantities or Flames of Fire: This could be no Deception ſince another Perſon was with me, and cryed out as one affrighted.</p>
+            <p>About ten days after this Viſion, I received ſatisfaction in Divinity.</p>
+            <p>I found the Doctrine I had (after this Viſion) received, comply'd with the buſineſs of <hi>Elijah,</hi> in <hi>Mal.</hi> 4. to thoſe that could receive it, for it prepar'd Men in love to meet Chriſt at his ſecond Appearance; and that did much ſtartle me: And then I ſearch'd the Scriptures whether they teſtified of any ſuch Perſon.</p>
+            <p>I could not dare to ſay I was this Perſon, and ſometimes I would ſeriouſly conſider it, and ſome<g ref="char:EOLhyphen"/>times I would blame my ſelf for ſuch Idle Thoughts: But however I thought it moſt ſafe to ſuſpend my Judgment, and I thus argued: That if, as a Sign, I could ſee a Dove vaniſh out of my Sight, I ſhould be the better ſatisfied, and accordingly (to my Amazement) a Dove did vaniſh out of my Sight, in the Day-time, in the Palliſadoes at <hi>Jamaica:</hi> This made me a lit<g ref="char:EOLhyphen"/>tle more uneaſy, and that I was this Man in <hi>Mal.</hi> 4. was too high for my Faith. Therefore, after my return to <hi>London</hi> from <hi>Cambridge,</hi> where I tryed the Learned, I again th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſoned with my ſelf, If I am this Man in <hi>Ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 4. then ſome Viſion will appear to the whole W<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rld, as a fore<g ref="char:EOLhyphen"/>runner of the Signs of the ſecond Perſonal Com<g ref="char:EOLhyphen"/>ing of Chriſt, as Wars and Earthquakes, <hi>&amp;c.</hi> And accordingly, about Two Months after this my Expectation, appear'd that Univerſal and
+<pb n="15" facs="tcp:37619:8"/>
+Prodigious Comet in the Year 1680 / 1. Yet ſtill I am very uneaſy, and cannot believe my laſt Ex<g ref="char:EOLhyphen"/>pectation will come to paſs, as 'tis writ, <hi>Jer. 30. 6, 7. Ask ye now, and ſee whether a man doth tra<g ref="char:EOLhyphen"/>vel with Child? wherefore do I ſee every man with his hands on his Loins, as a woman in Travail, and all faces are turned into paleneſs? Alas, for that Day is great, ſo that none is like it.</hi>
+            </p>
+            <p>It's in vain then to ſtrive againſt the Stream; Man I muſt not fear: I now being come almoſt to the Period of my Expectations, the full intent of my writing theſe two Treatiſes, is to ſee this my laſt Expectation of Chriſt's ſecond coming, whether it will be fulfill'd according to my Ex<g ref="char:EOLhyphen"/>pectation or not, that is, in my Days. And ſince it is a reſtraint upon me, I wiſh I might offend <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one, if it were the Will of God.</p>
+            <p>Many think the Jews ſhall be call'd before the Second Coming of Chriſt; for my part I expect no ſuch thing: For the Deliverer which is to come out of <hi>Sion,</hi> in <hi>Rom.</hi> 11. I take to be Chriſt from Heaven, which is by Faith to turn Iniquity from <hi>Jacob.</hi> And ſeveral other Scriptures I could name agrees with this. But a word in reſpect to Viſions, and then I ſhall finiſh this ſmall Treatiſe.</p>
+            <p>Ezek. 12. <hi>All Viſions are to have moſt certain and ſpeedy Effects, and none in theſe latter Days to be vain Viſions.</hi>
+            </p>
+            <p>And I obſerve, that all Effects anſwer to the Shapes or figures of their Viſions: As <hi>Peter</hi>'s Sheet from Heaven, with all ſorts of Beaſts clean and unclean, <hi>Acts</hi> 10. 12. was the calling of the <hi>Gentiles.</hi> The Cloven Tongues had the effect of
+<pb n="16" facs="tcp:37619:9"/>
+the Apoſtles ſpeaking divers Languages. And the gloomy Pale Comet, with a Broom-like Bruſh to it, had the effect of the laſt Plague in <hi>London<g ref="char:punc">▪</g>
+               </hi> And the Comet in 1680 / 1 was narrow at the bot<g ref="char:EOLhyphen"/>tom proceeding from a ſmall Star, to a prodigi<g ref="char:EOLhyphen"/>ous length and breadth, and was hooked at the top like a Sickle, and univerſally appear'd.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
